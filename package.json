@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Wisbell/modern-javascript-tools-west#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0",
     "node-sass": "^4.4.0"
