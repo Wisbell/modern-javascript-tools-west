@@ -1,0 +1,13 @@
+@import 'colors.scss';
+
+div {
+  ul {
+    background-color: $awesome-background-color;
+
+    li {
+      color: $cool-color;
+
+      list-style: none;
+    }
+  }
+}

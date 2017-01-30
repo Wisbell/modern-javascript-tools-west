@@ -1,0 +1,15 @@
+@import 'colors.scss';
+
+h1 {
+  color: $cool-color;
+}
+
+
+.not-normal {
+
+  h1 {
+    color: $not-normal-color;
+    }
+
+
+}
